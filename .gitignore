@@ -66,7 +66,10 @@ typings/
 # next.js build output
 .next
 
-##########
+
+#  ┌───────────────────────────────────────────────────────────────────────────────────┐
+#  │ MY My settings.                                                                   │
+#  └───────────────────────────────────────────────────────────────────────────────────┘
 
 # Notes directorie
 notes/
@@ -79,6 +82,9 @@ scripts/debug/
 
 # scripts/fix/ directorie
 scripts/fix/
+
+# Matches the files with patron serviceAccountKey.<name>.json
+serviceAccountKey.*.json
 
 # Matches the files with patron quick.<name>.ext
 quick.*

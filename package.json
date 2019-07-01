@@ -57,5 +57,14 @@
     "nodemon": "^1.19.1",
     "prettier": "^1.18.2",
     "yargs": "^13.2.4"
+  },
+  "dependencies": {
+    "ansi-colors": "^4.0.1",
+    "cross-env": "^5.2.0",
+    "firebase": "^6.2.4",
+    "firebase-admin": "^8.2.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.25",
+    "xlsx": "^0.14.3"
   }
 }

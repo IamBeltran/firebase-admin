@@ -2,7 +2,7 @@
   "name": "firebase-admin",
   "version": "1.0.0",
   "description": "Repository for testing and project management with Firebase",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "precommit": "lint-staged",
     "eslint:src": "cross-env NODE_ENV=test gulp eslint:src",

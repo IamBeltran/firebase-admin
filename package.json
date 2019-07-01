@@ -1,0 +1,19 @@
+{
+  "name": "firebase-admin",
+  "version": "1.0.0",
+  "description": "Repository for testing and project management with Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamBeltran/firebase-admin.git"
+  },
+  "author": "Victor Giovanni Beltrán Rodríguez <beltran-victor@outlook.com> (https://vgbr-dev.blogspot.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IamBeltran/firebase-admin/issues"
+  },
+  "homepage": "https://github.com/IamBeltran/firebase-admin#readme"
+}

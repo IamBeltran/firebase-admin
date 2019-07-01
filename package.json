@@ -25,6 +25,18 @@
     "Firebase"
   ],
   "author": "Victor Giovanni Beltrán Rodríguez <beltran-victor@outlook.com> (https://vgbr-dev.blogspot.com)",
+  "contributors": [
+    {
+      "name": "Victor Giovanni Beltrán Rodriguez",
+      "email": "beltran-victor@outlook.com"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Victor Giovanni Beltrán Rodriguez",
+      "email": "beltran-victor@outlook.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IamBeltran/firebase-admin/issues"

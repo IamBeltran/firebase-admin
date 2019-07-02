@@ -76,12 +76,17 @@
     "express": "^4.17.1",
     "firebase": "^6.2.4",
     "firebase-admin": "^8.2.0",
+    "firestore-export-import": "^0.2.3",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.25",
     "xlsx": "^0.14.3"
   },
   "nodemonConfig": {
-    "ignore": ["test/*", "docs/*","src/json/*"],
+    "ignore": [
+      "test/*",
+      "docs/*",
+      "src/json/*"
+    ],
     "delay": "2500"
   }
 }

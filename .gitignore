@@ -86,6 +86,9 @@ scripts/fix/
 # Matches the files with patron serviceAccountKey.<name>.json
 serviceAccountKey.*.json
 
+# Matches the files with patron serviceAccountKey.<name>.json
+/src/json/*.json
+
 # Matches the files with patron quick.<name>.ext
 quick.*
 

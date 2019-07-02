@@ -87,7 +87,7 @@ scripts/fix/
 serviceAccountKey.*.json
 
 # Matches the files with patron FirebaseConfig.<name>.js
-FirebaseConfig.*.js
+firebaseConfig.*.js
 
 # Matches the files with patron serviceAccountKey.<name>.json
 /src/json/*.json
